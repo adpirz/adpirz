@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I currently work at [Lattice](https://www.lattice.com) as an Engineering Manager.
+
+Here's my [LinkedIn](https://www.linkedin.com/in/adpirz).
+
 <!--
 **adpirz/adpirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
