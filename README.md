@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work at [Lattice](https://www.lattice.com) as an Engineering Manager.
+I currently work at [Lattice](https://www.lattice.com) as a Staff Software Engineer.
 
 Here's my [LinkedIn](https://www.linkedin.com/in/adpirz).
 
